@@ -1,5 +1,5 @@
 {
-    "maxResults": 50,
+    "maxResults": 502,
     "startAt": 0,
     "total": 140,
     "isLast": false,
